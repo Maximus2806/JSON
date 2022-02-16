@@ -6,7 +6,7 @@
     "Steps to reproduce": "Look at the lower left corner of the screen",
     "Actual result": "Logo isn't the same as one in the requirements",
     "Expected result": "Logo is the same as one in the requirements",
-    "Severity": "Low",
+    "Severity": "Minor",
     "Priority": "High",
     "Status": "Opened",
     "Environment": "Windows10, Google Chrome",
