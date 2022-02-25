@@ -1,14 +1,11 @@
 {
-	{
 		"Personal_data":
 	{
 		"name": "Svetlana",
 		"age": 44,
 		"salary": 800,
-		"children": [Masha, 15]	
+		"children": ["Masha", 15]	
 	},
-	{
-		"Education": "Bachelor"
-	}
+	        "Education": "Bachelor"
 }
 
